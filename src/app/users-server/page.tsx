@@ -29,3 +29,4 @@ export default async function UsersServer() {
     </ul>
   );
 }
+// watching more and coding more to learn Next.js
